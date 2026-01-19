@@ -2,7 +2,7 @@
 
 > Display a random historic Maharashtra fort on your GitHub profile README - changes on every page refresh!
 
-![Random Fort Card](https://your-app-url.vercel.app/api/fort-card.svg)
+![Random Fort Card](https://random-fort-generator.vercel.app/api/fort-card.svg)
 
 ## ✨ Features
 
@@ -25,8 +25,8 @@ Each card shows:
 ### Add to Your GitHub README
 
 ```markdown
-<a href="https://your-app-url.vercel.app">
-  <img src="https://your-app-url.vercel.app/api/fort-card.svg" alt="Random Fort" />
+<a href="https://random-fort-generator.vercel.app">
+  <img src="https://random-fort-generator.vercel.app/api/fort-card.svg" alt="Random Fort" />
 </a>
 ```
 
